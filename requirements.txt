@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+onnxruntime==1.17.0
+langchain-google-genai
+google-generativeai
+chromadb
+embedchain
+
+
